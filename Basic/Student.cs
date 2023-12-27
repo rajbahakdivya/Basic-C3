@@ -5,6 +5,7 @@
         public void display()
         {
             Console.WriteLine("Test");
+            Console.WriteLine("class");
         }
     }
 }
