@@ -13,6 +13,7 @@ namespace Basic
             {
                 Console.WriteLine("Name");
                 Console.WriteLine("Rollno");
+                Console.WriteLine("Subject");
             }
         }
 }
